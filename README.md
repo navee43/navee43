@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Naveen Yadav
 **** Full-Stack Developer | Java | MERN | DSA | Always learning, always building
 
-Email Me 👉 ✉️ **naveen343k@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **naveenyadav11k@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Data Structures & Algorithms, System Design, and Backend Development
 - 👯 **I’m looking to collaborate on:** Open-source MERN, AI, and Full-Stack projects
 - 🤔 **I’m looking for help with:** Scaling web applications, System Design, and Open Source
 - 💬 **Ask me about:** Java, React, Node.js, MongoDB, DSA, and Full-Stack Development
-- 📫 **How to reach me:** naveen343k@gmail.com
+- 📫 **How to reach me:** naveenyadav11k@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Every new project is an excuse for me to learn a new technology.
 
