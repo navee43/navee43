@@ -186,7 +186,7 @@ A modern full-stack food ordering platform with authentication, food discovery, 
 **Tech Stack:**
 `Next.js` `TypeScript` `Tailwind CSS` `Zod` `NextAuth` `MongoDB` `Resend` `Cloudinary` `Razorpay`
 
-🔗 **[🌐 Live Demo](https://hotspicfoodel.site)**
+🔗 **[🌐 Live Demo](https://food-del-website-sable.vercel.app/)**
 
 ---
 
